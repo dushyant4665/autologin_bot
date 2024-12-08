@@ -13,17 +13,18 @@ This project is a simple tool built with Python that automatically logs you into
 
 Before running the bot, ensure you have the following installed on your system:
 
-Python 3.7 or later
+1.Python 3.7 or later
 Download from python.org.
 
-Google Chrome
+2.Google Chrome
 Download from google.com/chrome.
 
-ChromeDriver
+3.ChromeDriver
 
-Must match your installed Chrome version.
-Download from chromedriver.chromium.org.
-Python Libraries
+  *Must match your installed Chrome version.
+  *Download from chromedriver.chromium.org.
+
+4.Python Libraries
 Install the required Python packages using:
 
 ```bash
