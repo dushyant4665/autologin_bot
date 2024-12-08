@@ -9,22 +9,33 @@ This project is a simple tool built with Python that automatically logs you into
 3. Clicks the login button programmatically.
 4. Verifies successful login with URL redirection.
 
-## Requirements
+## **Requirements**
 
 Before running the bot, ensure you have the following installed on your system:
 
-1. Python 3.7 or later
-Download from python.org.
+1. **Python 3.7 or later**  
+   Download from [python.org](https://www.python.org/downloads/).
 
-2. Google Chrome
-Download from google.com/chrome.
+2. **Google Chrome**  
+   Download from [google.com/chrome](https://www.google.com/chrome/).
 
-3. ChromeDriver
-  *Must match your installed Chrome version.
-  *Download from chromedriver.chromium.org.
+3. **ChromeDriver**  
+   - Must match your installed Chrome version.  
+   - Download from [chromedriver.chromium.org](https://chromedriver.chromium.org/downloads).
 
-4.Python Libraries
-Install the required Python packages using:
+4. **Python Libraries**  
+   Install the required Python packages using:
+   ```bash
+   pip install selenium
+
+## **How to Use**
+
+Follow these steps to run the **Auto-Login Bot**:
+
+### **1. Clone the Repository**
+First, clone the repository to your local machine:
 ```bash
-pip install selenium
-```
+git clone https://github.com/dushyant4665/autologin_bot.git
+cd autologin_bot
+
+
