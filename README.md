@@ -25,5 +25,6 @@ Download from chromedriver.chromium.org.
 Python Libraries
 Install the required Python packages using:
 
-bash
-Copy code
+```bash
+pip install selenium
+```
