@@ -46,9 +46,9 @@ Download ChromeDriver that matches your Google Chrome version from here. Once do
 Open the autologin_bot.py file in a code editor and replace the placeholders with your credentials and the target website URL:
 ```bash
 
-username.send_keys("your_username")  # Replace with your username
-password.send_keys("your_password")  # Replace with your password
-driver.get("https://example.com/login/")  # Replace with your login page URL
+username.send_keys("your_username")  #Replace with your username
+password.send_keys("your_password")  #Replace with your password
+driver.get("https://example.com/login/")  #Replace with your login page URL
 
 ```
 4. Run the Script
@@ -69,10 +69,10 @@ c. Automatically input the credentials and log you in.
 
 ```bash
 autologin_bot/
-├── README.md          # Project documentation
-├── autologin_bot.py   # Main script for the bot
-├── chromedriver.exe   # ChromeDriver for browser automation
-└── venv/              # Optional virtual environment (if used)
+├── README.md          #Project documentation
+├── autologin_bot.py   #Main script for the bot
+├── chromedriver.exe   #ChromeDriver for browser automation
+└── venv/              #Optional virtual environment (if used)
 ```
 
 ## Important Notes 
